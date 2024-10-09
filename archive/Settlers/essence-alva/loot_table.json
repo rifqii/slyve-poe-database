@@ -7,7 +7,7 @@
         "unit_price": 282.1,
         "total_price": 20027.7,
         "display_unit_price": "1.9d",
-        "display_total_price": "138.2d"
+        "display_total_price": "138.17d"
     },
     {
         "id": "2",
@@ -37,7 +37,7 @@
         "unit_price": 0.1,
         "total_price": 10.0,
         "display_unit_price": "0.1c",
-        "display_total_price": "10.0c"
+        "display_total_price": "10.05c"
     },
     {
         "id": "5",
@@ -47,7 +47,7 @@
         "unit_price": 10,
         "total_price": 310,
         "display_unit_price": "10c",
-        "display_total_price": "2.1d"
+        "display_total_price": "2.14d"
     },
     {
         "id": "6",
@@ -57,7 +57,7 @@
         "unit_price": 1.7,
         "total_price": 10.0,
         "display_unit_price": "1.7c",
-        "display_total_price": "10.0c"
+        "display_total_price": "10.02c"
     },
     {
         "id": "7",
@@ -97,7 +97,7 @@
         "unit_price": 1.2,
         "total_price": 13.3,
         "display_unit_price": "1.2c",
-        "display_total_price": "13.3c"
+        "display_total_price": "13.31c"
     },
     {
         "id": "11",
@@ -117,7 +117,7 @@
         "unit_price": 0.9,
         "total_price": 3.6,
         "display_unit_price": "0.9c",
-        "display_total_price": "3.6c"
+        "display_total_price": "3.64c"
     },
     {
         "id": "13",
@@ -127,7 +127,7 @@
         "unit_price": 0.0,
         "total_price": 0.2,
         "display_unit_price": "0.0c",
-        "display_total_price": "0.2c"
+        "display_total_price": "0.24c"
     },
     {
         "id": "14",
@@ -167,7 +167,7 @@
         "unit_price": 69.4,
         "total_price": 763.4,
         "display_unit_price": "69.4c",
-        "display_total_price": "5.3d"
+        "display_total_price": "5.27d"
     },
     {
         "id": "18",
@@ -177,7 +177,7 @@
         "unit_price": 71.0,
         "total_price": 2128.8,
         "display_unit_price": "71.0c",
-        "display_total_price": "14.7d"
+        "display_total_price": "14.69d"
     },
     {
         "id": "19",
@@ -187,7 +187,7 @@
         "unit_price": 40.0,
         "total_price": 320.0,
         "display_unit_price": "40.0c",
-        "display_total_price": "2.2d"
+        "display_total_price": "2.21d"
     },
     {
         "id": "20",
@@ -197,7 +197,7 @@
         "unit_price": 0.8,
         "total_price": 0.8,
         "display_unit_price": "0.8c",
-        "display_total_price": "0.8c"
+        "display_total_price": "0.85c"
     },
     {
         "id": "21",
@@ -207,7 +207,7 @@
         "unit_price": 0.0,
         "total_price": 0.4,
         "display_unit_price": "0.0c",
-        "display_total_price": "0.4c"
+        "display_total_price": "0.44c"
     },
     {
         "id": "22",
@@ -221,6 +221,16 @@
     },
     {
         "id": "23",
+        "icon": 0,
+        "name": "Forbidden Tome",
+        "quantity": 4,
+        "unit_price": 0,
+        "total_price": 0,
+        "display_unit_price": "0c",
+        "display_total_price": "0c"
+    },
+    {
+        "id": "24",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVpc3QvQmx1ZXByaW50Tm90QXBwcm92ZWQzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fd4cd3685e/BlueprintNotApproved3.png",
         "name": "Blueprint: Laboratory",
         "quantity": 6,
@@ -230,7 +240,7 @@
         "display_total_price": "0c"
     },
     {
-        "id": "24",
+        "id": "25",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVpc3QvSGVpc3RDb2luQ3VycmVuY3kiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/987a8953f9/HeistCoinCurrency.png",
         "name": "Rogue's Marker",
         "quantity": 75665,
@@ -240,27 +250,27 @@
         "display_total_price": "0c"
     },
     {
-        "id": "25",
+        "id": "26",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb1JhcmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b102771c23/CurrencyAddModToRare.png",
         "name": "Exalted Orb",
         "quantity": 1,
         "unit_price": 13.7,
         "total_price": 13.7,
         "display_unit_price": "13.7c",
-        "display_total_price": "13.7c"
+        "display_total_price": "13.71c"
     },
     {
-        "id": "26",
+        "id": "27",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJleW9uZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f3d0278af1/Tier4ScarabBeyond.png",
         "name": "Beyond Scarab of the Invasion",
         "quantity": 1,
         "unit_price": 0.9,
         "total_price": 0.9,
         "display_unit_price": "0.9c",
-        "display_total_price": "0.9c"
+        "display_total_price": "0.95c"
     },
     {
-        "id": "27",
+        "id": "28",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFbGRlciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/11cabe4d12/LesserScarabElder.png",
         "name": "Influencing Scarab of the Elder",
         "quantity": 4,
@@ -270,27 +280,27 @@
         "display_total_price": "3.6c"
     },
     {
-        "id": "28",
+        "id": "29",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZXRyYXlhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/26d3ff70f1/LesserScarabBetrayal.png",
         "name": "Betrayal Scarab",
         "quantity": 3,
         "unit_price": 0.7,
         "total_price": 2.2,
         "display_unit_price": "0.7c",
-        "display_total_price": "2.2c"
+        "display_total_price": "2.16c"
     },
     {
-        "id": "29",
+        "id": "30",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCcmVhY2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/37bd40da6c/LesserScarabBreach.png",
         "name": "Breach Scarab",
         "quantity": 1,
         "unit_price": 1.1,
         "total_price": 1.1,
         "display_unit_price": "1.1c",
-        "display_total_price": "1.1c"
+        "display_total_price": "1.09c"
     },
     {
-        "id": "30",
+        "id": "31",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJIYXJiaW5nZXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/640ad00ede/NormalScarabHarbingers.png",
         "name": "Harbinger Scarab of Obelisks",
         "quantity": 7,
@@ -300,7 +310,7 @@
         "display_total_price": "4.9c"
     },
     {
-        "id": "31",
+        "id": "32",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbHRpbWF0dW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e0bf2875db/LesserScarabUltimatum.png",
         "name": "Ultimatum Scarab",
         "quantity": 1,
@@ -310,17 +320,17 @@
         "display_total_price": "0.6c"
     },
     {
-        "id": "32",
+        "id": "33",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5600ee7971/LesserScarabStrongboxes.png",
         "name": "Ambush Scarab",
         "quantity": 13,
         "unit_price": 3.8,
         "total_price": 49.7,
         "display_unit_price": "3.8c",
-        "display_total_price": "49.7c"
+        "display_total_price": "49.66c"
     },
     {
-        "id": "33",
+        "id": "34",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRG9taW5hdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/88bb71ff95/GreaterScarabDomination.png",
         "name": "Domination Scarab of Evolution",
         "quantity": 1,
@@ -330,7 +340,7 @@
         "display_total_price": "1.0c"
     },
     {
-        "id": "34",
+        "id": "35",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWlzYzEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b96cb43b23/GreaterScarabMisc1.png",
         "name": "Scarab of Wisps",
         "quantity": 3,
@@ -340,17 +350,17 @@
         "display_total_price": "25.5c"
     },
     {
-        "id": "35",
+        "id": "36",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWlzYzIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b0c70fb6c8/GreaterScarabMisc2.png",
         "name": "Scarab of Bisection",
         "quantity": 3,
         "unit_price": 0.9,
         "total_price": 2.8,
         "display_unit_price": "0.9c",
-        "display_total_price": "2.8c"
+        "display_total_price": "2.76c"
     },
     {
-        "id": "36",
+        "id": "37",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f4c8c526ba/SuperScarab2.png",
         "name": "Horned Scarab of Nemeses",
         "quantity": 3,
@@ -360,17 +370,17 @@
         "display_total_price": "18.0c"
     },
     {
-        "id": "37",
+        "id": "38",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png",
         "name": "Explorer's Scouting Report",
         "quantity": 1,
         "unit_price": 0.3,
         "total_price": 0.3,
         "display_unit_price": "0.3c",
-        "display_total_price": "0.3c"
+        "display_total_price": "0.33c"
     },
     {
-        "id": "38",
+        "id": "39",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkVzc2VuY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c12e415ec2/Tier4ScarabEssence.png",
         "name": "Essence Scarab of Calcification",
         "quantity": 3,
@@ -380,17 +390,17 @@
         "display_total_price": "84.0c"
     },
     {
-        "id": "39",
+        "id": "40",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmV0cmF5YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/85f51a19b8/GreaterScarabBetrayal.png",
         "name": "Betrayal Scarab of Reinforcements",
         "quantity": 3,
         "unit_price": 1.0,
         "total_price": 2.9,
         "display_unit_price": "1.0c",
-        "display_total_price": "2.9c"
+        "display_total_price": "2.88c"
     },
     {
-        "id": "40",
+        "id": "41",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRWxkZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2bd3ed1eca/GreaterScarabElder.png",
         "name": "Influencing Scarab of Hordes",
         "quantity": 3,
@@ -400,17 +410,17 @@
         "display_total_price": "3.3c"
     },
     {
-        "id": "41",
+        "id": "42",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJFeHBlZGl0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a1f5997c7d/NormalScarabExpedition.png",
         "name": "Expedition Scarab of Runefinding",
         "quantity": 2,
         "unit_price": 1.0,
         "total_price": 1.9,
         "display_unit_price": "1.0c",
-        "display_total_price": "1.9c"
+        "display_total_price": "1.94c"
     },
     {
-        "id": "42",
+        "id": "43",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmxpZ2h0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/cf36f28d45/GreaterScarabBlight.png",
         "name": "Blight Scarab of the Blightheart",
         "quantity": 1,
@@ -420,17 +430,17 @@
         "display_total_price": "1.0c"
     },
     {
-        "id": "43",
+        "id": "44",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU3VscGhpdGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2a3855535e/GreaterScarabSulphite.png",
         "name": "Sulphite Scarab of Fumes",
         "quantity": 1,
         "unit_price": 0.7,
         "total_price": 0.7,
         "display_unit_price": "0.7c",
-        "display_total_price": "0.7c"
+        "display_total_price": "0.65c"
     },
     {
-        "id": "44",
+        "id": "45",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJVbmlxdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/774d92ac8e/NormalScarabUnique.png",
         "name": "Titanic Scarab of Treasures",
         "quantity": 5,
@@ -440,7 +450,7 @@
         "display_total_price": "10.5c"
     },
     {
-        "id": "45",
+        "id": "46",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYk1pc2MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/42e3a0fccd/Tier4ScarabMisc.png",
         "name": "Scarab of Stability",
         "quantity": 1,
@@ -450,7 +460,7 @@
         "display_total_price": "0.8c"
     },
     {
-        "id": "46",
+        "id": "47",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYlN0cm9uZ2JveGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/74111052f4/AltTier4ScarabStrongboxes.png",
         "name": "Ambush Scarab of Discernment",
         "quantity": 4,
@@ -460,17 +470,17 @@
         "display_total_price": "44.6c"
     },
     {
-        "id": "47",
+        "id": "48",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJMZWdpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0006525c3c/LesserScarabLegion.png",
         "name": "Legion Scarab",
         "quantity": 2,
         "unit_price": 1.0,
         "total_price": 1.9,
         "display_unit_price": "1.0c",
-        "display_total_price": "1.9c"
+        "display_total_price": "1.94c"
     },
     {
-        "id": "48",
+        "id": "49",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/359ab82f70/VillageRune5.png",
         "name": "River Rune",
         "quantity": 1,
@@ -480,7 +490,7 @@
         "display_total_price": "2.0c"
     },
     {
-        "id": "49",
+        "id": "50",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
         "name": "The Fortunate",
         "quantity": 1,
@@ -490,17 +500,17 @@
         "display_total_price": "17.0c"
     },
     {
-        "id": "50",
+        "id": "51",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7b3f931918/VillageRune4.png",
         "name": "War Rune",
         "quantity": 1,
         "unit_price": 0.8,
         "total_price": 0.8,
         "display_unit_price": "0.8c",
-        "display_total_price": "0.8c"
+        "display_total_price": "0.83c"
     },
     {
-        "id": "51",
+        "id": "52",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHROb3JtYWxTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/95a7a8097c/AltNormalScarabMaps.png",
         "name": "Cartography Scarab of the Multitude",
         "quantity": 4,
@@ -510,7 +520,7 @@
         "display_total_price": "27.6c"
     },
     {
-        "id": "52",
+        "id": "53",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b7a66fc6ab/VillageRune7.png",
         "name": "Journey Rune",
         "quantity": 1,
@@ -520,7 +530,7 @@
         "display_total_price": "5.0c"
     },
     {
-        "id": "53",
+        "id": "54",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVpc3QvQmx1ZXByaW50Tm90QXBwcm92ZWQ3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/bafd718e24/BlueprintNotApproved7.png",
         "name": "Blueprint: Underbelly",
         "quantity": 6,
@@ -530,7 +540,7 @@
         "display_total_price": "0c"
     },
     {
-        "id": "54",
+        "id": "55",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXRyYXlhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/01b158342c/NormalScarabBetrayal.png",
         "name": "Betrayal Scarab of Intelligence",
         "quantity": 4,
@@ -540,7 +550,7 @@
         "display_total_price": "4.0c"
     },
     {
-        "id": "55",
+        "id": "56",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRGl2aW5hdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8101d1a6e1/GreaterScarabDivination.png",
         "name": "Divination Scarab of Pilfering",
         "quantity": 1,
@@ -550,17 +560,17 @@
         "display_total_price": "6.0c"
     },
     {
-        "id": "56",
+        "id": "57",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTaGFwZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9e83e315c9/LesserScarabShaper.png",
         "name": "Influencing Scarab of the Shaper",
         "quantity": 7,
         "unit_price": 0.7,
         "total_price": 4.5,
         "display_unit_price": "0.7c",
-        "display_total_price": "4.5c"
+        "display_total_price": "4.55c"
     },
     {
-        "id": "57",
+        "id": "58",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/dd523e523b/SuperScarab7.png",
         "name": "Horned Scarab of Pandemonium",
         "quantity": 1,
@@ -570,7 +580,7 @@
         "display_total_price": "40.0c"
     },
     {
-        "id": "58",
+        "id": "59",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d119a0d734/CurrencyRerollRare.png",
         "name": "Chaos Orb",
         "quantity": 2,
@@ -580,17 +590,17 @@
         "display_total_price": "2c"
     },
     {
-        "id": "59",
+        "id": "60",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lHZW1RdWFsaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1be1273b91/CurrencyGemQuality.png",
         "name": "Gemcutter's Prism",
         "quantity": 8,
         "unit_price": 1.0,
         "total_price": 7.7,
         "display_unit_price": "1.0c",
-        "display_total_price": "7.7c"
+        "display_total_price": "7.68c"
     },
     {
-        "id": "60",
+        "id": "61",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJIYXJiaW5nZXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1940157b44/LesserScarabHarbingers.png",
         "name": "Harbinger Scarab",
         "quantity": 6,
@@ -600,7 +610,7 @@
         "display_total_price": "18.0c"
     },
     {
-        "id": "61",
+        "id": "62",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVpc3QvQmx1ZXByaW50Tm90QXBwcm92ZWQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/03e0a85e57/BlueprintNotApproved.png",
         "name": "Blueprint: Bunker",
         "quantity": 3,
@@ -610,37 +620,37 @@
         "display_total_price": "0c"
     },
     {
-        "id": "62",
+        "id": "63",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWlzYyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/dfed2f59a3/GreaterScarabMisc.png",
         "name": "Scarab of Hunted Traitors",
         "quantity": 3,
         "unit_price": 1.0,
         "total_price": 2.9,
         "display_unit_price": "1.0c",
-        "display_total_price": "2.9c"
+        "display_total_price": "2.91c"
     },
     {
-        "id": "63",
+        "id": "64",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWFwcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2567494a92/GreaterScarabMaps.png",
         "name": "Cartography Scarab of Corruption",
         "quantity": 5,
         "unit_price": 10.3,
         "total_price": 51.8,
         "display_unit_price": "10.3c",
-        "display_total_price": "51.8c"
+        "display_total_price": "51.75c"
     },
     {
-        "id": "64",
+        "id": "65",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbmlxdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/72516960f1/LesserScarabUnique.png",
         "name": "Titanic Scarab",
         "quantity": 5,
         "unit_price": 1.0,
         "total_price": 4.8,
         "display_unit_price": "1.0c",
-        "display_total_price": "4.8c"
+        "display_total_price": "4.85c"
     },
     {
-        "id": "65",
+        "id": "66",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRvbWluYXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2e56a6e5dc/Tier4ScarabDomination.png",
         "name": "Domination Scarab of Terrors",
         "quantity": 1,
@@ -650,27 +660,27 @@
         "display_total_price": "35.0c"
     },
     {
-        "id": "66",
+        "id": "67",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQW5hcmNoeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/08125ce822/GreaterScarabAnarchy.png",
         "name": "Anarchy Scarab of Partnership",
         "quantity": 4,
         "unit_price": 1.0,
         "total_price": 4.0,
         "display_unit_price": "1.0c",
-        "display_total_price": "4.0c"
+        "display_total_price": "3.96c"
     },
     {
-        "id": "67",
+        "id": "68",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJJbmN1cnNpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/44cc3c3c34/LesserScarabIncursion.png",
         "name": "Incursion Scarab",
         "quantity": 6,
         "unit_price": 0.6,
         "total_price": 3.7,
         "display_unit_price": "0.6c",
-        "display_total_price": "3.7c"
+        "display_total_price": "3.66c"
     },
     {
-        "id": "68",
+        "id": "69",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVmFsZG9zUHV6emxlQm94IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/aa5be00d00/ValdosPuzzleBox.png",
         "name": "Valdo's Puzzle Box",
         "quantity": 3,
@@ -680,17 +690,17 @@
         "display_total_price": "3.6d"
     },
     {
-        "id": "69",
+        "id": "70",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEb21pbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/56e13db37d/LesserScarabDomination.png",
         "name": "Domination Scarab",
         "quantity": 5,
         "unit_price": 1.0,
         "total_price": 4.8,
         "display_unit_price": "1.0c",
-        "display_total_price": "4.8c"
+        "display_total_price": "4.85c"
     },
     {
-        "id": "70",
+        "id": "71",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UZW1wbGVNYXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9be10cc6b3/TempleMap.png",
         "name": "Chronicle of Atzoatl",
         "quantity": 1,
@@ -700,17 +710,17 @@
         "display_total_price": "4.3c"
     },
     {
-        "id": "71",
+        "id": "72",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJVbHRpbWF0dW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f7845be27d/NormalScarabUltimatum.png",
         "name": "Ultimatum Scarab of Bribing",
         "quantity": 1,
         "unit_price": 1.1,
         "total_price": 1.1,
         "display_unit_price": "1.1c",
-        "display_total_price": "1.1c"
+        "display_total_price": "1.08c"
     },
     {
-        "id": "72",
+        "id": "73",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYk1pc2MyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a1a6f9261c/Tier4ScarabMisc2.png",
         "name": "Scarab of Radiant Storms",
         "quantity": 1,
@@ -720,7 +730,7 @@
         "display_total_price": "1.0c"
     },
     {
-        "id": "73",
+        "id": "74",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVpc3QvQmx1ZXByaW50Tm90QXBwcm92ZWQ5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c6b8f5dbc2/BlueprintNotApproved9.png",
         "name": "Blueprint: Mansion",
         "quantity": 2,
@@ -730,7 +740,7 @@
         "display_total_price": "0c"
     },
     {
-        "id": "74",
+        "id": "75",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRlbGlyaXVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6416ee8493/Tier4ScarabDelirium.png",
         "name": "Delirium Scarab of Delusions",
         "quantity": 1,
@@ -740,7 +750,7 @@
         "display_total_price": "0.8c"
     },
     {
-        "id": "75",
+        "id": "76",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVpc3QvQmx1ZXByaW50Tm90QXBwcm92ZWQ4IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/cc90ce9113/BlueprintNotApproved8.png",
         "name": "Blueprint: Records Office",
         "quantity": 3,
@@ -750,7 +760,7 @@
         "display_total_price": "0c"
     },
     {
-        "id": "76",
+        "id": "77",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCbGlnaHQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c35814598b/LesserScarabBlight.png",
         "name": "Blight Scarab",
         "quantity": 1,
@@ -760,7 +770,7 @@
         "display_total_price": "0.6c"
     },
     {
-        "id": "77",
+        "id": "78",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/46451362bc/NormalScarabStrongboxes.png",
         "name": "Ambush Scarab of Hidden Compartments",
         "quantity": 8,
@@ -770,7 +780,7 @@
         "display_total_price": "7.2c"
     },
     {
-        "id": "78",
+        "id": "79",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkluY3Vyc2lvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c651660186/Tier4ScarabIncursion.png",
         "name": "Incursion Scarab of Timelines",
         "quantity": 2,
@@ -780,7 +790,7 @@
         "display_total_price": "54.0c"
     },
     {
-        "id": "79",
+        "id": "80",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJEb21pbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9ef9fd8595/NormalScarabDomination.png",
         "name": "Domination Scarab of Apparitions",
         "quantity": 7,
@@ -790,17 +800,17 @@
         "display_total_price": "4.9c"
     },
     {
-        "id": "80",
+        "id": "81",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUmVncmV0T3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a2ebb4b5a3/RegretOrb.png",
         "name": "Orb of Unmaking",
         "quantity": 9,
         "unit_price": 0.2,
         "total_price": 1.6,
         "display_unit_price": "0.2c",
-        "display_total_price": "1.6c"
+        "display_total_price": "1.62c"
     },
     {
-        "id": "81",
+        "id": "82",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJBbmFyY2h5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/89174f2e33/LesserScarabAnarchy.png",
         "name": "Anarchy Scarab",
         "quantity": 6,
@@ -810,7 +820,7 @@
         "display_total_price": "5.4c"
     },
     {
-        "id": "82",
+        "id": "83",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlN0cm9uZ2JveGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/dd7b8bd53f/Tier4ScarabStrongboxes.png",
         "name": "Ambush Scarab of Containment",
         "quantity": 1,
@@ -820,7 +830,7 @@
         "display_total_price": "1.5d"
     },
     {
-        "id": "83",
+        "id": "84",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEaXZpbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ac84db8246/LesserScarabDivination.png",
         "name": "Divination Scarab of The Cloister",
         "quantity": 12,
@@ -830,17 +840,17 @@
         "display_total_price": "60.0c"
     },
     {
-        "id": "84",
+        "id": "85",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0f4dc83dc5/NormalScarabBeasts.png",
         "name": "Bestiary Scarab of the Herd",
         "quantity": 4,
         "unit_price": 2.2,
         "total_price": 8.9,
         "display_unit_price": "2.2c",
-        "display_total_price": "8.9c"
+        "display_total_price": "8.92c"
     },
     {
-        "id": "85",
+        "id": "86",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRMZXNzZXJTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b51199868c/AltLesserScarabMisc.png",
         "name": "Scarab of Adversaries",
         "quantity": 6,
@@ -850,27 +860,27 @@
         "display_total_price": "9.0c"
     },
     {
-        "id": "86",
+        "id": "87",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/37b581d6b1/TangleOrbRank2.png",
         "name": "Greater Eldritch Ichor",
         "quantity": 2,
         "unit_price": 0.3,
         "total_price": 0.6,
         "display_unit_price": "0.3c",
-        "display_total_price": "0.6c"
+        "display_total_price": "0.62c"
     },
     {
-        "id": "87",
+        "id": "88",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRHcmVhdGVyU2NhcmFiQmV5b25kIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d007f87e7b/AltGreaterScarabBeyond.png",
         "name": "Beyond Scarab of Resurgence",
         "quantity": 5,
         "unit_price": 0.7,
         "total_price": 3.2,
         "display_unit_price": "0.7c",
-        "display_total_price": "3.2c"
+        "display_total_price": "3.25c"
     },
     {
-        "id": "88",
+        "id": "89",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiUml0dWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2e76a61fb9/GreaterScarabRitual.png",
         "name": "Ritual Scarab of Abundance",
         "quantity": 1,
@@ -880,7 +890,7 @@
         "display_total_price": "3.9c"
     },
     {
-        "id": "89",
+        "id": "90",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNYXBRdWFsaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c83c35bed5/CurrencyMapQuality.png",
         "name": "Cartographer's Chisel",
         "quantity": 2,
@@ -890,37 +900,37 @@
         "display_total_price": "1.6c"
     },
     {
-        "id": "90",
+        "id": "91",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZXlvbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ff67da07b4/LesserScarabBeyond.png",
         "name": "Beyond Scarab",
         "quantity": 4,
         "unit_price": 0.7,
         "total_price": 2.7,
         "display_unit_price": "0.7c",
-        "display_total_price": "2.7c"
+        "display_total_price": "2.68c"
     },
     {
-        "id": "91",
+        "id": "92",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lWYWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/304f775089/CurrencyVaal.png",
         "name": "Vaal Orb",
         "quantity": 19,
         "unit_price": 0.6,
         "total_price": 10.5,
         "display_unit_price": "0.6c",
-        "display_total_price": "10.5c"
+        "display_total_price": "10.45c"
     },
     {
-        "id": "92",
+        "id": "93",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlTWFnaWNUb1JhcmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/898378b439/CurrencyUpgradeMagicToRare.png",
         "name": "Regal Orb",
         "quantity": 7,
         "unit_price": 0.4,
         "total_price": 2.9,
         "display_unit_price": "0.4c",
-        "display_total_price": "2.9c"
+        "display_total_price": "2.87c"
     },
     {
-        "id": "93",
+        "id": "94",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d89cac7adf/LesserScarabMisc.png",
         "name": "Scarab of Monstrous Lineage",
         "quantity": 5,
@@ -930,7 +940,7 @@
         "display_total_price": "6.0c"
     },
     {
-        "id": "94",
+        "id": "95",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJUb3JtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b4e843a49b/LesserScarabTorment.png",
         "name": "Torment Scarab",
         "quantity": 6,
@@ -940,17 +950,17 @@
         "display_total_price": "5.1c"
     },
     {
-        "id": "95",
+        "id": "96",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/80772bd510/TangleOrbRank3.png",
         "name": "Grand Eldritch Ichor",
         "quantity": 1,
         "unit_price": 2.8,
         "total_price": 2.8,
         "display_unit_price": "2.8c",
-        "display_total_price": "2.8c"
+        "display_total_price": "2.84c"
     },
     {
-        "id": "96",
+        "id": "97",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJJbmN1cnNpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/992c5f7548/NormalScarabIncursion.png",
         "name": "Incursion Scarab of Invasion",
         "quantity": 4,
@@ -960,7 +970,7 @@
         "display_total_price": "3.2c"
     },
     {
-        "id": "97",
+        "id": "98",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFc3NlbmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c9f153a8cf/LesserScarabEssence.png",
         "name": "Essence Scarab",
         "quantity": 4,
@@ -970,7 +980,7 @@
         "display_total_price": "4.0c"
     },
     {
-        "id": "98",
+        "id": "99",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcmJpbmdlcnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/81caefbf3f/Tier4ScarabHarbingers.png",
         "name": "Harbinger Scarab of Warhoards",
         "quantity": 4,
@@ -980,17 +990,17 @@
         "display_total_price": "32.2c"
     },
     {
-        "id": "99",
+        "id": "100",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0baaf413d0/NormalScarabMaps.png",
         "name": "Cartography Scarab of Risk",
         "quantity": 1,
         "unit_price": 4.4,
         "total_price": 4.4,
         "display_unit_price": "4.4c",
-        "display_total_price": "4.4c"
+        "display_total_price": "4.39c"
     },
     {
-        "id": "100",
+        "id": "101",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJBYnlzcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c78d645398/NormalScarabAbyss.png",
         "name": "Abyss Scarab of Multitudes",
         "quantity": 1,
@@ -1000,47 +1010,47 @@
         "display_total_price": "0.9c"
     },
     {
-        "id": "101",
+        "id": "102",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea23afd0ff/LesserScarabBeasts.png",
         "name": "Bestiary Scarab",
         "quantity": 6,
         "unit_price": 0.7,
         "total_price": 4.0,
         "display_unit_price": "0.7c",
-        "display_total_price": "4.0c"
+        "display_total_price": "4.02c"
     },
     {
-        "id": "102",
+        "id": "103",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJIYXJ2ZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0951fed47e/LesserScarabHarvest.png",
         "name": "Harvest Scarab",
         "quantity": 1,
         "unit_price": 0.8,
         "total_price": 0.8,
         "display_unit_price": "0.8c",
-        "display_total_price": "0.8c"
+        "display_total_price": "0.75c"
     },
     {
-        "id": "103",
+        "id": "104",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a4e827f718/NormalScarabMisc.png",
         "name": "Scarab of Divinity",
         "quantity": 5,
         "unit_price": 1.0,
         "total_price": 4.8,
         "display_unit_price": "1.0c",
-        "display_total_price": "4.8c"
+        "display_total_price": "4.85c"
     },
     {
-        "id": "104",
+        "id": "105",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9GbGFza1BsYXRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c03aace282/FlaskPlate.png",
         "name": "Enkindling Orb",
         "quantity": 3,
         "unit_price": 0.3,
         "total_price": 1.0,
         "display_unit_price": "0.3c",
-        "display_total_price": "1.0c"
+        "display_total_price": "0.99c"
     },
     {
-        "id": "105",
+        "id": "106",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJMZWdpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0edb9242f1/NormalScarabLegion.png",
         "name": "Legion Scarab of Officers",
         "quantity": 1,
@@ -1050,17 +1060,17 @@
         "display_total_price": "1.0c"
     },
     {
-        "id": "106",
+        "id": "107",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdWxwaGl0ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1e18c30014/LesserScarabSulphite.png",
         "name": "Sulphite Scarab",
         "quantity": 5,
         "unit_price": 0.8,
         "total_price": 3.8,
         "display_unit_price": "0.8c",
-        "display_total_price": "3.8c"
+        "display_total_price": "3.75c"
     },
     {
-        "id": "107",
+        "id": "108",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRXNzZW5jZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f476efd29d/GreaterScarabEssence.png",
         "name": "Essence Scarab of Stability",
         "quantity": 12,
@@ -1070,7 +1080,7 @@
         "display_total_price": "9.6c"
     },
     {
-        "id": "108",
+        "id": "109",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lGbGFza1F1YWxpdHkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8a36dffe11/CurrencyFlaskQuality.png",
         "name": "Glassblower's Bauble",
         "quantity": 3,
@@ -1080,17 +1090,17 @@
         "display_total_price": "1.2c"
     },
     {
-        "id": "109",
+        "id": "110",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSW5jdXJzaW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f6b60e9be1/GreaterScarabIncursion.png",
         "name": "Incursion Scarab of Champions",
         "quantity": 5,
         "unit_price": 0.8,
         "total_price": 3.9,
         "display_unit_price": "0.8c",
-        "display_total_price": "3.9c"
+        "display_total_price": "3.85c"
     },
     {
-        "id": "110",
+        "id": "111",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSGFyYmluZ2VycyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ce393cfd58/GreaterScarabHarbingers.png",
         "name": "Harbinger Scarab of Regency",
         "quantity": 5,
@@ -1100,137 +1110,137 @@
         "display_total_price": "50.0c"
     },
     {
-        "id": "111",
+        "id": "112",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png",
         "name": "Vaal Scouting Report",
         "quantity": 1,
         "unit_price": 0.3,
         "total_price": 0.3,
         "display_unit_price": "0.3c",
-        "display_total_price": "0.3c"
+        "display_total_price": "0.33c"
     },
     {
-        "id": "112",
+        "id": "113",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TY29ybjciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3f926be5cb/Scorn7.png",
         "name": "Deafening Essence of Scorn",
         "quantity": 62.66,
         "unit_price": 4.1,
         "total_price": 259.4,
         "display_unit_price": "4.1c",
-        "display_total_price": "1.8d"
+        "display_total_price": "1.79d"
     },
     {
-        "id": "113",
+        "id": "114",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9NaXNlcnk3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/98a9373284/Misery7.png",
         "name": "Deafening Essence of Misery",
         "quantity": 82.45,
         "unit_price": 2.0,
         "total_price": 164.9,
         "display_unit_price": "2.0c",
-        "display_total_price": "1.1d"
+        "display_total_price": "1.14d"
     },
     {
-        "id": "114",
+        "id": "115",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Xb2U3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c26067973c/Woe7.png",
         "name": "Deafening Essence of Woe",
         "quantity": 204.0,
         "unit_price": 2.9,
         "total_price": 589.6,
         "display_unit_price": "2.9c",
-        "display_total_price": "4.1d"
+        "display_total_price": "4.07d"
     },
     {
-        "id": "115",
+        "id": "116",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Tb3Jyb3c3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0b97d1a6b0/Sorrow7.png",
         "name": "Deafening Essence of Sorrow",
         "quantity": 231.0,
         "unit_price": 2.0,
         "total_price": 462.0,
         "display_unit_price": "2.0c",
-        "display_total_price": "3.2d"
+        "display_total_price": "3.19d"
     },
     {
-        "id": "116",
+        "id": "117",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/497aea3b75/Fear7.png",
         "name": "Deafening Essence of Fear",
         "quantity": 201.22,
         "unit_price": 2.0,
         "total_price": 402.4,
         "display_unit_price": "2.0c",
-        "display_total_price": "2.8d"
+        "display_total_price": "2.78d"
     },
     {
-        "id": "117",
+        "id": "118",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVlZDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bb443ee5e3/Greed7.png",
         "name": "Deafening Essence of Greed",
         "quantity": 230.34,
         "unit_price": 2.0,
         "total_price": 453.8,
         "display_unit_price": "2.0c",
-        "display_total_price": "3.1d"
+        "display_total_price": "3.13d"
     },
     {
-        "id": "118",
+        "id": "119",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Mb2F0aGluZzciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fdf6345fe6/Loathing7.png",
         "name": "Deafening Essence of Loathing",
         "quantity": 126.89,
         "unit_price": 3.0,
         "total_price": 380.7,
         "display_unit_price": "3.0c",
-        "display_total_price": "2.6d"
+        "display_total_price": "2.63d"
     },
     {
-        "id": "119",
+        "id": "120",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9UZXJyb3IxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/80faa3ee53/Terror1.png",
         "name": "Essence of Hysteria",
         "quantity": 50,
         "unit_price": 20.7,
         "total_price": 1035.5,
         "display_unit_price": "20.7c",
-        "display_total_price": "7.1d"
+        "display_total_price": "7.14d"
     },
     {
-        "id": "120",
+        "id": "121",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9IYXRyZWQ3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/81249b110a/Hatred7.png",
         "name": "Deafening Essence of Hatred",
         "quantity": 200.56,
         "unit_price": 2.0,
         "total_price": 401.1,
         "display_unit_price": "2.0c",
-        "display_total_price": "2.8d"
+        "display_total_price": "2.77d"
     },
     {
-        "id": "121",
+        "id": "122",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9aZWFsNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6bce73e351/Zeal7.png",
         "name": "Deafening Essence of Zeal",
         "quantity": 142.78,
         "unit_price": 3.0,
         "total_price": 428.3,
         "display_unit_price": "3.0c",
-        "display_total_price": "3.0d"
+        "display_total_price": "2.96d"
     },
     {
-        "id": "122",
+        "id": "123",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TdWZmZXJpbmc3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/180a7cbf52/Suffering7.png",
         "name": "Deafening Essence of Suffering",
         "quantity": 207.44,
         "unit_price": 1.5,
         "total_price": 311.2,
         "display_unit_price": "1.5c",
-        "display_total_price": "2.1d"
+        "display_total_price": "2.15d"
     },
     {
-        "id": "123",
+        "id": "124",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Bbmd1aXNoNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/866e512a2f/Anguish7.png",
         "name": "Deafening Essence of Anguish",
         "quantity": 139.89,
         "unit_price": 1.8,
         "total_price": 249.0,
         "display_unit_price": "1.8c",
-        "display_total_price": "1.7d"
+        "display_total_price": "1.72d"
     },
     {
-        "id": "124",
+        "id": "125",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9BbmdlcjciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2cf0a55081/Anger7.png",
         "name": "Deafening Essence of Anger",
         "quantity": 231.77,
@@ -1240,117 +1250,117 @@
         "display_total_price": "3.2d"
     },
     {
-        "id": "125",
+        "id": "126",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TcGl0ZTciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/67b002a3b7/Spite7.png",
         "name": "Deafening Essence of Spite",
         "quantity": 129.22,
         "unit_price": 3.7,
         "total_price": 482.0,
         "display_unit_price": "3.7c",
-        "display_total_price": "3.3d"
+        "display_total_price": "3.33d"
     },
     {
-        "id": "126",
+        "id": "127",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9XcmF0aDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea0157df49/Wrath7.png",
         "name": "Deafening Essence of Wrath",
         "quantity": 184.56,
         "unit_price": 2.1,
         "total_price": 387.6,
         "display_unit_price": "2.1c",
-        "display_total_price": "2.7d"
+        "display_total_price": "2.67d"
     },
     {
-        "id": "127",
+        "id": "128",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/49e11518a1/Doubt7.png",
         "name": "Deafening Essence of Doubt",
         "quantity": 197.44,
         "unit_price": 1.5,
         "total_price": 296.2,
         "display_unit_price": "1.5c",
-        "display_total_price": "2.0d"
+        "display_total_price": "2.04d"
     },
     {
-        "id": "128",
+        "id": "129",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db250ZW1wdDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/eabee1b2e2/Contempt7.png",
         "name": "Deafening Essence of Contempt",
         "quantity": 224.23,
         "unit_price": 2.5,
         "total_price": 560.6,
         "display_unit_price": "2.5c",
-        "display_total_price": "3.9d"
+        "display_total_price": "3.87d"
     },
     {
-        "id": "129",
+        "id": "130",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9EcmVhZDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f867c936c4/Dread7.png",
         "name": "Deafening Essence of Dread",
         "quantity": 75.56,
         "unit_price": 1.8,
         "total_price": 136.0,
         "display_unit_price": "1.8c",
-        "display_total_price": "136.0c"
+        "display_total_price": "136.01c"
     },
     {
-        "id": "130",
+        "id": "131",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9JbnNhbml0eTEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/abff00730a/Insanity1.png",
         "name": "Essence of Insanity",
         "quantity": 62,
         "unit_price": 21.3,
         "total_price": 1318.1,
         "display_unit_price": "21.3c",
-        "display_total_price": "9.1d"
+        "display_total_price": "9.09d"
     },
     {
-        "id": "131",
+        "id": "132",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9FbnZ5NyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7e2590a0e6/Envy7.png",
         "name": "Deafening Essence of Envy",
         "quantity": 78.11,
         "unit_price": 3.5,
         "total_price": 269.5,
         "display_unit_price": "3.5c",
-        "display_total_price": "1.9d"
+        "display_total_price": "1.86d"
     },
     {
-        "id": "132",
+        "id": "133",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Ub3JtZW50NyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/de4367a1ca/Torment7.png",
         "name": "Deafening Essence of Torment",
         "quantity": 221.78,
         "unit_price": 2.0,
         "total_price": 441.3,
         "display_unit_price": "2.0c",
-        "display_total_price": "3.0d"
+        "display_total_price": "3.04d"
     },
     {
-        "id": "133",
+        "id": "134",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9NYWRuZXNzMSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4884b879d8/Madness1.png",
         "name": "Essence of Delirium",
         "quantity": 62,
         "unit_price": 24.2,
         "total_price": 1497.9,
         "display_unit_price": "24.2c",
-        "display_total_price": "10.3d"
+        "display_total_price": "10.33d"
     },
     {
-        "id": "134",
+        "id": "135",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Ib3Jyb3IxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/748d594bde/Horror1.png",
         "name": "Essence of Horror",
         "quantity": 57,
         "unit_price": 31.6,
         "total_price": 1800.1,
         "display_unit_price": "31.6c",
-        "display_total_price": "12.4d"
+        "display_total_price": "12.42d"
     },
     {
-        "id": "135",
+        "id": "136",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYWdlNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ecf93b7233/Rage7.png",
         "name": "Deafening Essence of Rage",
         "quantity": 213.66,
         "unit_price": 3.0,
         "total_price": 632.4,
         "display_unit_price": "3.0c",
-        "display_total_price": "4.4d"
+        "display_total_price": "4.36d"
     },
     {
-        "id": "136",
+        "id": "137",
         "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Fc3NlbmNlQ29ycnVwdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0e84041aa5/EssenceCorrupt.png",
         "name": "Remnant of Corruption",
         "quantity": 1,
@@ -1358,15 +1368,5 @@
         "total_price": 2.0,
         "display_unit_price": "2.0c",
         "display_total_price": "2.0c"
-    },
-    {
-        "id": "137",
-        "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2FuY3R1bS9TYW5jdHVtS2V5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d0326cac9a/SanctumKey.png",
-        "name": "Forbidden Tome 83+",
-        "quantity": 4,
-        "unit_price": 4.0,
-        "total_price": 16.1,
-        "display_unit_price": "4.0c",
-        "display_total_price": "16.1c"
     }
 ]
